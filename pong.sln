@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "pong\pong.csproj", "{BC87C2E9-85F8-4D55-9945-B74D291B558D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC87C2E9-85F8-4D55-9945-B74D291B558D}.Debug|x86.ActiveCfg = Debug|x86
+		{BC87C2E9-85F8-4D55-9945-B74D291B558D}.Debug|x86.Build.0 = Debug|x86
+		{BC87C2E9-85F8-4D55-9945-B74D291B558D}.Release|x86.ActiveCfg = Release|x86
+		{BC87C2E9-85F8-4D55-9945-B74D291B558D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
